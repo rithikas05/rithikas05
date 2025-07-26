@@ -51,6 +51,6 @@ A smart task management app with pin/archive/delete actions, calendar view, and 
 
 **Email:** rithikasenthil5@gmail.com  
 **LinkedIn:** [linkedin.com/in/rithikasenthil](https://www.linkedin.com/in/rithikasenthil)  
-**Resume:** [View Resume](https://drive.google.com/file/d/13PoVnupODoZ7M_jlU7mBNLrRjKVr-SP0/view?usp=drive_link) 
+**Resume:** [View Resume](https://drive.google.com/file/d/1mTRRoDrqogapjKRKFwPTyblUWuPM2-oi/view?usp=sharing) 
 
 Let’s build something impactful.
