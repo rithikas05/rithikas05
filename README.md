@@ -48,12 +48,11 @@ A smart task management app with pin/archive/delete actions, calendar view, and 
 **Tech Stack:** MERN Stack · React Query · Toastify
 
 ---
-+
 
 ## Contact
 
-**Email:** rithikasenthil05@gmail.com  
+**Email:** rithikasenthil5@gmail.com  
 **LinkedIn:** [linkedin.com/in/rithikasenthil](https://www.linkedin.com/in/rithikasenthil)  
-**Resume:** [View Resume](#) *(Update with your resume link)*
+**Resume:** [View Resume](https://drive.google.com/file/d/13PoVnupODoZ7M_jlU7mBNLrRjKVr-SP0/view?usp=drive_link) 
 
 Let’s build something impactful.
