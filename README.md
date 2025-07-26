@@ -1,4 +1,4 @@
-# Rithika S.
+# Rithika Senthil.
 
 ### Full Stack Web Developer | MERN Stack | JavaScript | React | Node.js
 
@@ -33,37 +33,24 @@ A modern full-stack blogging platform where users can write, edit, and manage bl
 
 **Tech Stack:** React · Node.js · Express.js · MongoDB · JWT
 
+
 ### [MindNest](https://mindnest-frontend-ten.vercel.app/)
 A productivity web app for personal notes with features like category filters, search, and CRUD operations.
 
 **Tech Stack:** React · Node.js · Express.js · MongoDB
+
 
 ### ZenTask *(In Progress)*
 A smart task management app with pin/archive/delete actions, calendar view, and priority filtering.
 
 **Tech Stack:** MERN Stack · React Query · Toastify
 
-### Blood Bank Management System
-A complete system to manage blood donor and recipient data for hospitals and blood banks.
 
-**Tech Stack:** HTML · CSS · JavaScript · PHP · MySQL
-
-### E-Commerce Website
-A basic shopping site prototype with product listing and shopping cart functionality.
-
-**Tech Stack:** HTML · CSS · JavaScript
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rithikas05&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithikas05&layout=compact&theme=default" height="160" />
-</p>
 
 ## Contact
 
-**Email:** rithikasenthil05@gmail.com  
+**Email:** rithikasenthil5@gmail.com  
 **LinkedIn:** [linkedin.com/in/rithikasenthil](https://www.linkedin.com/in/rithikasenthil)  
-**Resume:** [View Resume](#) *(Update with your resume link)*
+**Resume:** [View Resume](https://drive.google.com/file/d/13PoVnupODoZ7M_jlU7mBNLrRjKVr-SP0/view?usp=drive_link) 
 
 Let’s build something impactful.
