@@ -1,4 +1,4 @@
-# Rithika Senthil.
+# Rithika Senthil
 
 ### Full Stack Web Developer | MERN Stack | JavaScript | React | Node.js
 
